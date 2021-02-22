@@ -1,0 +1,8 @@
+{
+  "headers": {
+    "/*": {
+      "X-Author": "pvg_tag",
+      "Access-Control-Allow-Origin": "*"
+    }
+  }
+}
